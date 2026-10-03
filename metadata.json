@@ -1,0 +1,6 @@
+{
+  "name": "FireTube",
+  "description": "FireTube - Plataforma clássica retrô com player vintage azul, canais de criadores, publicação de vídeos acumulativa com edição de miniaturas e descrições.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
